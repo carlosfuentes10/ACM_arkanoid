@@ -47,7 +47,7 @@ public class Arkanoid  extends acm.program.GraphicsProgram{
 			pelota1.muevete(this);
 		
 			
-			pause(4);
+			pause(5);
 		}
 		
 	}
